@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JLink">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Wolfram Research/Mathematica/11.2/SystemFiles/Links/JLink/JLink.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
